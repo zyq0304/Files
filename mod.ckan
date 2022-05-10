@@ -1,0 +1,95 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "a-",
+    "name": "-",
+    "abstract": "-",
+    "author": [
+        "-"
+    ],
+    "version": "-",
+    "ksp_version_min": "1.12.2",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "MakingHistory-DLC"
+        },
+        {
+            "name": "BreakingGround-DLC"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "RSSDateTimeFormatter"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "KerbinSideGAP"
+        },
+        {
+            "name": "KerwisChinaAerospacePack"
+        },
+        {
+            "name": "StockWaterfallEffects"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "TacFuelBalancer"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "Wanhu-Common"
+        },
+        {
+            "name": "LongMarch11CZ11"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage",
+    "release_date": "2022-05-10T14:43:40.6448112+08:00"
+}
